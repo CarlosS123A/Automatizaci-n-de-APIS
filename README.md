@@ -46,7 +46,7 @@ Este proyecto tiene como objetivo la automatización de pruebas unitarias para e
 ## Subida del Proyecto a GitHub
 
 - El proyecto se subió a GitHub utilizando la interfaz web, creando un nuevo repositorio y subiendo los archivos del proyecto.
-- URL del repositorio: [https://github.com/CarlosS123A/QALabNTTDATA092024](https://github.com/CarlosS123A/QALabNTTDATA092024)
+- URL del repositorio: 
 
 ## Conclusión
 
