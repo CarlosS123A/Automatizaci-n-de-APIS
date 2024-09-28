@@ -46,7 +46,7 @@ Este proyecto tiene como objetivo la automatización de pruebas unitarias para e
 ## Subida del Proyecto a GitHub
 
 - El proyecto se subió a GitHub utilizando la interfaz web, creando un nuevo repositorio y subiendo los archivos del proyecto.
-- URL del repositorio: 
+- URL del repositorio: https://github.com/CarlosS123A/Automatizaci-n-de-APIS.git
 
 ## Conclusión
 
